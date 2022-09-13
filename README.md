@@ -1,5 +1,9 @@
 ##  Smart Factory Developer 👋
-
+ Smart Factory Developer (2022.06~)
+ DRG Project Manager (2021.07 ~ 2022.06)
+ Healthcare Developer (2019.09 ~ 2022.06)
+ ERP Developer (2019.01 ~ 2019.09)
+ 
 ## 💻 Tech Stack 💻
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
