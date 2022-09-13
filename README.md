@@ -1,7 +1,7 @@
 ##  Smart Factory Developer 👋
- Smart Factory Developer (2022.06~)
- DRG Project Manager (2021.07 ~ 2022.06)
- Healthcare Developer (2019.09 ~ 2022.06)
+ Smart Factory Developer (2022.06~)</p>
+ DRG Project Manager (2021.07 ~ 2022.06)</p>
+ Healthcare Developer (2019.09 ~ 2022.06)</p>
  ERP Developer (2019.01 ~ 2019.09)
  
 ## 💻 Tech Stack 💻
