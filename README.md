@@ -4,6 +4,8 @@
  Healthcare Developer (2019.09 ~ 2022.06)</p>
  ERP Developer (2019.01 ~ 2019.09)
  
+ ## Int
+ 
 ## 💻 Tech Stack 💻
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
